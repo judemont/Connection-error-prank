@@ -1,4 +1,3 @@
-# chrome-connection-error-website
-Send your friends a fake page saying there is no connection.
+# Fake crome connection error page prank 
+Send to your friends a fake page saying there is no connection.
 
-url : https://rmbi.ch/jdm/404/
